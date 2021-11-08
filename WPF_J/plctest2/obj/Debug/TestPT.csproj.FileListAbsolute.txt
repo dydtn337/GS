@@ -1,0 +1,962 @@
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\plctest2.exe.config
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\plctest2.exe
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\plctest2.pdb
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.Data.Desktop.v21.1.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.Data.v21.1.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.Mvvm.v21.1.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.Pdf.v21.1.Core.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.Printing.v21.1.Core.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.Xpf.Core.v21.1.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.Xpf.Grid.v21.1.Core.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.Xpf.Grid.v21.1.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.Xpf.LayoutControl.v21.1.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.Xpf.Printing.v21.1.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.Xpf.Ribbon.v21.1.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.Xpf.Scheduling.v21.1.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.XtraScheduler.v21.1.Core.Desktop.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.XtraScheduler.v21.1.Core.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.Pdf.v21.1.Drawing.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.Xpf.DocumentViewer.v21.1.Core.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.Xpf.Docking.v21.1.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.RichEdit.v21.1.Core.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.Office.v21.1.Core.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.Images.v21.1.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.Xpf.Layout.v21.1.Core.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.Data.Desktop.v21.1.xml
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.Data.v21.1.xml
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.Mvvm.v21.1.xml
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.Pdf.v21.1.Core.xml
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.Printing.v21.1.Core.xml
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.Xpf.Core.v21.1.xml
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.Xpf.Grid.v21.1.xml
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.Xpf.Grid.v21.1.Core.xml
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.Xpf.LayoutControl.v21.1.xml
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.Xpf.Printing.v21.1.xml
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.Xpf.Ribbon.v21.1.xml
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.Xpf.Scheduling.v21.1.xml
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.XtraScheduler.v21.1.Core.xml
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.XtraScheduler.v21.1.Core.Desktop.xml
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.Pdf.v21.1.Drawing.xml
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.Xpf.DocumentViewer.v21.1.Core.xml
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.Xpf.Docking.v21.1.xml
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.RichEdit.v21.1.Core.xml
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.Office.v21.1.Core.xml
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.Xpf.Layout.v21.1.Core.xml
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\de\DevExpress.Data.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\es\DevExpress.Data.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\ja\DevExpress.Data.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\ru\DevExpress.Data.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\de\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\es\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\ja\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\ru\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\de\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\es\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\ja\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\ru\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\de\DevExpress.Xpf.Core.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\es\DevExpress.Xpf.Core.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\ja\DevExpress.Xpf.Core.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\ru\DevExpress.Xpf.Core.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\de\DevExpress.Xpf.Grid.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\es\DevExpress.Xpf.Grid.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\ja\DevExpress.Xpf.Grid.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\ru\DevExpress.Xpf.Grid.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\de\DevExpress.Xpf.LayoutControl.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\es\DevExpress.Xpf.LayoutControl.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\ja\DevExpress.Xpf.LayoutControl.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\ru\DevExpress.Xpf.LayoutControl.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\de\DevExpress.Xpf.Printing.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\es\DevExpress.Xpf.Printing.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\ja\DevExpress.Xpf.Printing.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\ru\DevExpress.Xpf.Printing.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\de\DevExpress.Xpf.Ribbon.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\es\DevExpress.Xpf.Ribbon.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\ja\DevExpress.Xpf.Ribbon.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\ru\DevExpress.Xpf.Ribbon.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\de\DevExpress.Xpf.Scheduling.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\es\DevExpress.Xpf.Scheduling.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\ja\DevExpress.Xpf.Scheduling.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\ru\DevExpress.Xpf.Scheduling.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\de\DevExpress.XtraScheduler.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\es\DevExpress.XtraScheduler.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\ja\DevExpress.XtraScheduler.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\ru\DevExpress.XtraScheduler.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\de\DevExpress.Xpf.DocumentViewer.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\es\DevExpress.Xpf.DocumentViewer.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\ja\DevExpress.Xpf.DocumentViewer.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\ru\DevExpress.Xpf.DocumentViewer.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\de\DevExpress.Xpf.Docking.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\es\DevExpress.Xpf.Docking.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\ja\DevExpress.Xpf.Docking.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\ru\DevExpress.Xpf.Docking.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\de\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\es\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\ja\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\ru\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\de\DevExpress.Office.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\es\DevExpress.Office.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\ja\DevExpress.Office.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\ru\DevExpress.Office.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\obj\Debug\TestPT.csproj.AssemblyReference.cache
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\obj\Debug\ArcGauge.g.cs
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\obj\Debug\MainWindow.g.cs
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\obj\Debug\ProcessLevel.g.cs
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\obj\Debug\Tank.g.cs
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\obj\Debug\App.g.cs
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\obj\Debug\plctest2_MarkupCompile.cache
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\obj\Debug\plctest2_MarkupCompile.lref
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\obj\Debug\ArcGauge.baml
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\obj\Debug\MainWindow.baml
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\obj\Debug\ProcessLevel.baml
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\obj\Debug\Tank.baml
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\obj\Debug\plctest2.g.resources
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\obj\Debug\plctest2.Properties.Resources.resources
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\obj\Debug\TestPT.csproj.GenerateResource.cache
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\obj\Debug\plctest2.exe.licenses
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\obj\Debug\TestPT.csproj.CoreCompileInputs.cache
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\obj\Debug\plctest2.exe
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Test\Tank\plctest2\obj\Debug\plctest2.pdb
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\plctest2.exe.config
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\plctest2.exe
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\plctest2.pdb
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\DevExpress.Data.Desktop.v21.1.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\DevExpress.Data.v21.1.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\DevExpress.Mvvm.v21.1.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\DevExpress.Pdf.v21.1.Core.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\DevExpress.Printing.v21.1.Core.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\DevExpress.Xpf.Core.v21.1.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\DevExpress.Xpf.Grid.v21.1.Core.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\DevExpress.Xpf.Grid.v21.1.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\DevExpress.Xpf.LayoutControl.v21.1.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\DevExpress.Xpf.Printing.v21.1.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\DevExpress.Xpf.Ribbon.v21.1.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\DevExpress.Xpf.Scheduling.v21.1.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\DevExpress.XtraScheduler.v21.1.Core.Desktop.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\DevExpress.XtraScheduler.v21.1.Core.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\DevExpress.Pdf.v21.1.Drawing.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\DevExpress.Xpf.DocumentViewer.v21.1.Core.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\DevExpress.Xpf.Docking.v21.1.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\DevExpress.RichEdit.v21.1.Core.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\DevExpress.Office.v21.1.Core.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\DevExpress.Images.v21.1.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\DevExpress.Xpf.Layout.v21.1.Core.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\DevExpress.Data.Desktop.v21.1.xml
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\DevExpress.Data.v21.1.xml
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\DevExpress.Mvvm.v21.1.xml
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\DevExpress.Pdf.v21.1.Core.xml
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\DevExpress.Printing.v21.1.Core.xml
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\DevExpress.Xpf.Core.v21.1.xml
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\DevExpress.Xpf.Grid.v21.1.xml
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\DevExpress.Xpf.Grid.v21.1.Core.xml
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\DevExpress.Xpf.LayoutControl.v21.1.xml
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\DevExpress.Xpf.Printing.v21.1.xml
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\DevExpress.Xpf.Ribbon.v21.1.xml
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\DevExpress.Xpf.Scheduling.v21.1.xml
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\DevExpress.XtraScheduler.v21.1.Core.xml
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\DevExpress.XtraScheduler.v21.1.Core.Desktop.xml
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\DevExpress.Pdf.v21.1.Drawing.xml
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\DevExpress.Xpf.DocumentViewer.v21.1.Core.xml
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\DevExpress.Xpf.Docking.v21.1.xml
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\DevExpress.RichEdit.v21.1.Core.xml
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\DevExpress.Office.v21.1.Core.xml
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\DevExpress.Xpf.Layout.v21.1.Core.xml
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\de\DevExpress.Data.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\es\DevExpress.Data.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\ja\DevExpress.Data.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\ru\DevExpress.Data.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\de\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\es\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\ja\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\ru\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\de\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\es\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\ja\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\ru\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\de\DevExpress.Xpf.Core.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\es\DevExpress.Xpf.Core.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\ja\DevExpress.Xpf.Core.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\ru\DevExpress.Xpf.Core.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\de\DevExpress.Xpf.Grid.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\es\DevExpress.Xpf.Grid.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\ja\DevExpress.Xpf.Grid.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\ru\DevExpress.Xpf.Grid.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\de\DevExpress.Xpf.LayoutControl.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\es\DevExpress.Xpf.LayoutControl.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\ja\DevExpress.Xpf.LayoutControl.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\ru\DevExpress.Xpf.LayoutControl.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\de\DevExpress.Xpf.Printing.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\es\DevExpress.Xpf.Printing.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\ja\DevExpress.Xpf.Printing.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\ru\DevExpress.Xpf.Printing.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\de\DevExpress.Xpf.Ribbon.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\es\DevExpress.Xpf.Ribbon.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\ja\DevExpress.Xpf.Ribbon.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\ru\DevExpress.Xpf.Ribbon.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\de\DevExpress.Xpf.Scheduling.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\es\DevExpress.Xpf.Scheduling.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\ja\DevExpress.Xpf.Scheduling.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\ru\DevExpress.Xpf.Scheduling.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\de\DevExpress.XtraScheduler.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\es\DevExpress.XtraScheduler.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\ja\DevExpress.XtraScheduler.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\ru\DevExpress.XtraScheduler.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\de\DevExpress.Xpf.DocumentViewer.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\es\DevExpress.Xpf.DocumentViewer.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\ja\DevExpress.Xpf.DocumentViewer.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\ru\DevExpress.Xpf.DocumentViewer.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\de\DevExpress.Xpf.Docking.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\es\DevExpress.Xpf.Docking.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\ja\DevExpress.Xpf.Docking.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\ru\DevExpress.Xpf.Docking.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\de\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\es\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\ja\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\ru\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\de\DevExpress.Office.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\es\DevExpress.Office.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\ja\DevExpress.Office.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\ru\DevExpress.Office.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\obj\Debug\ArcGauge.g.cs
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\obj\Debug\MainWindow.g.cs
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\obj\Debug\ProcessLevel.g.cs
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\obj\Debug\Tank.g.cs
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\obj\Debug\App.g.cs
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\obj\Debug\plctest2_MarkupCompile.cache
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\obj\Debug\plctest2_MarkupCompile.lref
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\obj\Debug\ArcGauge.baml
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\obj\Debug\MainWindow.baml
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\obj\Debug\ProcessLevel.baml
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\obj\Debug\Tank.baml
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\obj\Debug\plctest2.g.resources
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\obj\Debug\plctest2.Properties.Resources.resources
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\obj\Debug\TestPT.csproj.GenerateResource.cache
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\obj\Debug\plctest2.exe.licenses
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\obj\Debug\TestPT.csproj.CoreCompileInputs.cache
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\obj\Debug\plctest2.exe
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\obj\Debug\plctest2.pdb
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\DevExpress.Utils.v21.1.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\DevExpress.XtraBars.v21.1.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\DevExpress.XtraEditors.v21.1.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\NModbus.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\NModbus4.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\DevExpress.Sparkline.v21.1.Core.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\DevExpress.Utils.v21.1.xml
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\DevExpress.XtraBars.v21.1.xml
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\DevExpress.XtraEditors.v21.1.xml
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\NModbus.xml
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\NModbus4.xml
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\DevExpress.Sparkline.v21.1.Core.xml
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\de\DevExpress.Utils.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\es\DevExpress.Utils.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\ja\DevExpress.Utils.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\ru\DevExpress.Utils.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\de\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\es\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\ja\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\ru\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\de\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\es\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\ja\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\ru\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\de\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\es\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\ja\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\bin\Debug\ru\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\그래픽\Tank\plctest2\obj\Debug\TestPT.csproj.CopyComplete
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\plctest2.exe.config
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\plctest2.exe
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\plctest2.pdb
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.Data.Desktop.v21.1.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.Data.v21.1.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.Mvvm.v21.1.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.Pdf.v21.1.Core.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.Printing.v21.1.Core.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.Utils.v21.1.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.Xpf.Core.v21.1.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.Xpf.Grid.v21.1.Core.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.Xpf.Grid.v21.1.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.Xpf.LayoutControl.v21.1.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.Xpf.Printing.v21.1.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.Xpf.Ribbon.v21.1.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.Xpf.Scheduling.v21.1.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.XtraBars.v21.1.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.XtraEditors.v21.1.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.XtraScheduler.v21.1.Core.Desktop.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.XtraScheduler.v21.1.Core.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\NModbus.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\NModbus4.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.Pdf.v21.1.Drawing.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.Xpf.DocumentViewer.v21.1.Core.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.Xpf.Docking.v21.1.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.RichEdit.v21.1.Core.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.Office.v21.1.Core.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.Sparkline.v21.1.Core.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.Images.v21.1.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.Xpf.Layout.v21.1.Core.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.Data.Desktop.v21.1.xml
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.Data.v21.1.xml
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.Mvvm.v21.1.xml
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.Pdf.v21.1.Core.xml
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.Printing.v21.1.Core.xml
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.Utils.v21.1.xml
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.Xpf.Core.v21.1.xml
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.Xpf.Grid.v21.1.xml
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.Xpf.Grid.v21.1.Core.xml
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.Xpf.LayoutControl.v21.1.xml
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.Xpf.Printing.v21.1.xml
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.Xpf.Ribbon.v21.1.xml
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.Xpf.Scheduling.v21.1.xml
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.XtraBars.v21.1.xml
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.XtraEditors.v21.1.xml
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.XtraScheduler.v21.1.Core.xml
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.XtraScheduler.v21.1.Core.Desktop.xml
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\NModbus.xml
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\NModbus4.xml
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.Pdf.v21.1.Drawing.xml
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.Xpf.DocumentViewer.v21.1.Core.xml
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.Xpf.Docking.v21.1.xml
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.RichEdit.v21.1.Core.xml
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.Office.v21.1.Core.xml
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.Sparkline.v21.1.Core.xml
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\DevExpress.Xpf.Layout.v21.1.Core.xml
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\de\DevExpress.Data.v21.1.resources.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\es\DevExpress.Data.v21.1.resources.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\ja\DevExpress.Data.v21.1.resources.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\ru\DevExpress.Data.v21.1.resources.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\de\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\es\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\ja\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\ru\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\de\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\es\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\ja\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\ru\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\de\DevExpress.Utils.v21.1.resources.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\es\DevExpress.Utils.v21.1.resources.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\ja\DevExpress.Utils.v21.1.resources.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\ru\DevExpress.Utils.v21.1.resources.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\de\DevExpress.Xpf.Core.v21.1.resources.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\es\DevExpress.Xpf.Core.v21.1.resources.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\ja\DevExpress.Xpf.Core.v21.1.resources.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\ru\DevExpress.Xpf.Core.v21.1.resources.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\de\DevExpress.Xpf.Grid.v21.1.Core.resources.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\es\DevExpress.Xpf.Grid.v21.1.Core.resources.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\ja\DevExpress.Xpf.Grid.v21.1.Core.resources.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\ru\DevExpress.Xpf.Grid.v21.1.Core.resources.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\de\DevExpress.Xpf.LayoutControl.v21.1.resources.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\es\DevExpress.Xpf.LayoutControl.v21.1.resources.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\ja\DevExpress.Xpf.LayoutControl.v21.1.resources.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\ru\DevExpress.Xpf.LayoutControl.v21.1.resources.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\de\DevExpress.Xpf.Printing.v21.1.resources.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\es\DevExpress.Xpf.Printing.v21.1.resources.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\ja\DevExpress.Xpf.Printing.v21.1.resources.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\ru\DevExpress.Xpf.Printing.v21.1.resources.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\de\DevExpress.Xpf.Ribbon.v21.1.resources.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\es\DevExpress.Xpf.Ribbon.v21.1.resources.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\ja\DevExpress.Xpf.Ribbon.v21.1.resources.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\ru\DevExpress.Xpf.Ribbon.v21.1.resources.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\de\DevExpress.Xpf.Scheduling.v21.1.resources.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\es\DevExpress.Xpf.Scheduling.v21.1.resources.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\ja\DevExpress.Xpf.Scheduling.v21.1.resources.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\ru\DevExpress.Xpf.Scheduling.v21.1.resources.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\de\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\es\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\ja\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\ru\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\de\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\es\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\ja\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\ru\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\de\DevExpress.XtraScheduler.v21.1.Core.resources.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\es\DevExpress.XtraScheduler.v21.1.Core.resources.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\ja\DevExpress.XtraScheduler.v21.1.Core.resources.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\ru\DevExpress.XtraScheduler.v21.1.Core.resources.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\de\DevExpress.Xpf.DocumentViewer.v21.1.Core.resources.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\es\DevExpress.Xpf.DocumentViewer.v21.1.Core.resources.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\ja\DevExpress.Xpf.DocumentViewer.v21.1.Core.resources.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\ru\DevExpress.Xpf.DocumentViewer.v21.1.Core.resources.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\de\DevExpress.Xpf.Docking.v21.1.resources.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\es\DevExpress.Xpf.Docking.v21.1.resources.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\ja\DevExpress.Xpf.Docking.v21.1.resources.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\ru\DevExpress.Xpf.Docking.v21.1.resources.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\de\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\es\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\ja\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\ru\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\de\DevExpress.Office.v21.1.Core.resources.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\es\DevExpress.Office.v21.1.Core.resources.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\ja\DevExpress.Office.v21.1.Core.resources.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\ru\DevExpress.Office.v21.1.Core.resources.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\de\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\es\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\ja\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\bin\Debug\ru\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\obj\Debug\ArcGauge.g.cs
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\obj\Debug\MainWindow.g.cs
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\obj\Debug\ProcessLevel.g.cs
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\obj\Debug\Tank.g.cs
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\obj\Debug\App.g.cs
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\obj\Debug\plctest2_MarkupCompile.cache
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\obj\Debug\plctest2_MarkupCompile.lref
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\obj\Debug\ArcGauge.baml
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\obj\Debug\MainWindow.baml
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\obj\Debug\ProcessLevel.baml
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\obj\Debug\Tank.baml
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\obj\Debug\plctest2.g.resources
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\obj\Debug\plctest2.Properties.Resources.resources
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\obj\Debug\TestPT.csproj.GenerateResource.cache
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\obj\Debug\plctest2.exe.licenses
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\obj\Debug\TestPT.csproj.CoreCompileInputs.cache
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\obj\Debug\plctest2.exe
+C:\Users\정준원\Documents\카카오톡 받은 파일\Test\Tank\plctest2\obj\Debug\plctest2.pdb
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\DevExpress.Data.Desktop.v21.1.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\DevExpress.Data.v21.1.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\DevExpress.Mvvm.v21.1.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\DevExpress.Pdf.v21.1.Core.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\DevExpress.Printing.v21.1.Core.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\DevExpress.Utils.v21.1.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\DevExpress.Xpf.Core.v21.1.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\DevExpress.Xpf.Grid.v21.1.Core.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\DevExpress.Xpf.Grid.v21.1.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\DevExpress.Xpf.LayoutControl.v21.1.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\DevExpress.Xpf.Printing.v21.1.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\DevExpress.Xpf.Ribbon.v21.1.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\DevExpress.Xpf.Scheduling.v21.1.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\DevExpress.XtraBars.v21.1.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\DevExpress.XtraEditors.v21.1.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\DevExpress.XtraScheduler.v21.1.Core.Desktop.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\DevExpress.XtraScheduler.v21.1.Core.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\NModbus.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\NModbus4.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\DevExpress.Pdf.v21.1.Drawing.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\DevExpress.Xpf.DocumentViewer.v21.1.Core.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\DevExpress.Xpf.Docking.v21.1.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\DevExpress.RichEdit.v21.1.Core.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\DevExpress.Office.v21.1.Core.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\DevExpress.Sparkline.v21.1.Core.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\DevExpress.Images.v21.1.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\DevExpress.Xpf.Layout.v21.1.Core.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\DevExpress.Data.Desktop.v21.1.xml
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\DevExpress.Data.v21.1.xml
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\DevExpress.Mvvm.v21.1.xml
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\DevExpress.Pdf.v21.1.Core.xml
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\DevExpress.Printing.v21.1.Core.xml
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\DevExpress.Utils.v21.1.xml
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\DevExpress.Xpf.Core.v21.1.xml
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\DevExpress.Xpf.Grid.v21.1.xml
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\DevExpress.Xpf.Grid.v21.1.Core.xml
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\DevExpress.Xpf.LayoutControl.v21.1.xml
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\DevExpress.Xpf.Printing.v21.1.xml
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\DevExpress.Xpf.Ribbon.v21.1.xml
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\DevExpress.Xpf.Scheduling.v21.1.xml
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\DevExpress.XtraBars.v21.1.xml
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\DevExpress.XtraEditors.v21.1.xml
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\DevExpress.XtraScheduler.v21.1.Core.xml
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\DevExpress.XtraScheduler.v21.1.Core.Desktop.xml
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\NModbus.xml
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\NModbus4.xml
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\DevExpress.Pdf.v21.1.Drawing.xml
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\DevExpress.Xpf.DocumentViewer.v21.1.Core.xml
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\DevExpress.Xpf.Docking.v21.1.xml
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\DevExpress.RichEdit.v21.1.Core.xml
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\DevExpress.Office.v21.1.Core.xml
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\DevExpress.Sparkline.v21.1.Core.xml
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\DevExpress.Xpf.Layout.v21.1.Core.xml
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\de\DevExpress.Data.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\es\DevExpress.Data.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\ja\DevExpress.Data.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\ru\DevExpress.Data.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\de\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\es\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\ja\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\ru\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\de\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\es\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\ja\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\ru\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\de\DevExpress.Utils.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\es\DevExpress.Utils.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\ja\DevExpress.Utils.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\ru\DevExpress.Utils.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\de\DevExpress.Xpf.Core.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\es\DevExpress.Xpf.Core.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\ja\DevExpress.Xpf.Core.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\ru\DevExpress.Xpf.Core.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\de\DevExpress.Xpf.Grid.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\es\DevExpress.Xpf.Grid.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\ja\DevExpress.Xpf.Grid.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\ru\DevExpress.Xpf.Grid.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\de\DevExpress.Xpf.LayoutControl.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\es\DevExpress.Xpf.LayoutControl.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\ja\DevExpress.Xpf.LayoutControl.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\ru\DevExpress.Xpf.LayoutControl.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\de\DevExpress.Xpf.Printing.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\es\DevExpress.Xpf.Printing.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\ja\DevExpress.Xpf.Printing.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\ru\DevExpress.Xpf.Printing.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\de\DevExpress.Xpf.Ribbon.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\es\DevExpress.Xpf.Ribbon.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\ja\DevExpress.Xpf.Ribbon.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\ru\DevExpress.Xpf.Ribbon.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\de\DevExpress.Xpf.Scheduling.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\es\DevExpress.Xpf.Scheduling.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\ja\DevExpress.Xpf.Scheduling.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\ru\DevExpress.Xpf.Scheduling.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\de\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\es\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\ja\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\ru\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\de\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\es\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\ja\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\ru\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\de\DevExpress.XtraScheduler.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\es\DevExpress.XtraScheduler.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\ja\DevExpress.XtraScheduler.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\ru\DevExpress.XtraScheduler.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\de\DevExpress.Xpf.DocumentViewer.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\es\DevExpress.Xpf.DocumentViewer.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\ja\DevExpress.Xpf.DocumentViewer.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\ru\DevExpress.Xpf.DocumentViewer.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\de\DevExpress.Xpf.Docking.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\es\DevExpress.Xpf.Docking.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\ja\DevExpress.Xpf.Docking.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\ru\DevExpress.Xpf.Docking.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\de\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\es\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\ja\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\ru\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\de\DevExpress.Office.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\es\DevExpress.Office.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\ja\DevExpress.Office.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\ru\DevExpress.Office.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\de\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\es\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\ja\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\ru\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\obj\Debug\ArcGauge.g.cs
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\obj\Debug\MainWindow.g.cs
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\obj\Debug\ProcessLevel.g.cs
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\obj\Debug\Tank.g.cs
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\obj\Debug\App.g.cs
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\obj\Debug\ArcGauge.baml
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\obj\Debug\MainWindow.baml
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\obj\Debug\ProcessLevel.baml
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\obj\Debug\Tank.baml
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\obj\Debug\TestPT.csproj.GenerateResource.cache
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\obj\Debug\TestPT.csproj.CoreCompileInputs.cache
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\obj\Debug\login.g.cs
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\TestPT.exe.config
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\TestPT.exe
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\TestPT.pdb
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\DevExpress.Xpf.Gauges.v21.1.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\DevExpress.Xpf.Gauges.v21.1.xml
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\de\DevExpress.Xpf.Gauges.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\es\DevExpress.Xpf.Gauges.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\ja\DevExpress.Xpf.Gauges.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\ru\DevExpress.Xpf.Gauges.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\obj\Debug\TestPT_MarkupCompile.cache
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\obj\Debug\TestPT_MarkupCompile.lref
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\obj\Debug\login.baml
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\obj\Debug\TestPT.g.resources
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\obj\Debug\TestPT.Properties.Resources.resources
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\obj\Debug\TestPT.exe.licenses
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\obj\Debug\TestPT.exe
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\obj\Debug\TestPT.pdb
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\DevExpress.Charts.v21.1.Core.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\DevExpress.Data.v18.2.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\DevExpress.DataVisualization.v21.1.Core.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\DevExpress.Images.v18.2.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\DevExpress.Mvvm.v18.2.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\DevExpress.Printing.v18.2.Core.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\DevExpress.Xpf.Charts.v21.1.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\DevExpress.Xpf.Core.v18.2.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\DevExpress.Pdf.v18.2.Core.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\DevExpress.Data.v18.2.xml
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\DevExpress.Mvvm.v18.2.xml
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\DevExpress.Printing.v18.2.Core.xml
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\DevExpress.Xpf.Charts.v21.1.xml
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\DevExpress.Xpf.Core.v18.2.xml
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\DevExpress.Pdf.v18.2.Core.xml
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\de\DevExpress.Data.v18.2.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\es\DevExpress.Data.v18.2.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\ja\DevExpress.Data.v18.2.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\ru\DevExpress.Data.v18.2.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\de\DevExpress.Xpf.Charts.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\es\DevExpress.Xpf.Charts.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\ja\DevExpress.Xpf.Charts.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\ru\DevExpress.Xpf.Charts.v21.1.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\de\DevExpress.Xpf.Core.v18.2.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\es\DevExpress.Xpf.Core.v18.2.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\ja\DevExpress.Xpf.Core.v18.2.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\ru\DevExpress.Xpf.Core.v18.2.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\bin\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\obj\Debug\TestPT.csproj.CopyComplete
+C:\Users\mskim\OneDrive\문서\카카오톡 받은 파일\Tank\plctest2\obj\Debug\TestPT.csproj.AssemblyReference.cache
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\TestPT.exe.config
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\TestPT.exe
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\TestPT.pdb
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\DevExpress.Charts.v21.1.Core.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\DevExpress.Data.Desktop.v21.1.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\DevExpress.Data.v21.1.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\DevExpress.DataVisualization.v21.1.Core.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\DevExpress.Mvvm.v21.1.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\DevExpress.Pdf.v21.1.Core.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\DevExpress.Printing.v21.1.Core.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\DevExpress.Utils.v21.1.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\DevExpress.Xpf.Charts.v21.1.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\DevExpress.Xpf.Core.v21.1.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\DevExpress.Xpf.Gauges.v21.1.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\DevExpress.Xpf.Grid.v21.1.Core.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\DevExpress.Xpf.Grid.v21.1.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\DevExpress.Xpf.LayoutControl.v21.1.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\DevExpress.Xpf.Printing.v21.1.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\DevExpress.Xpf.Ribbon.v21.1.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\DevExpress.Xpf.Scheduling.v21.1.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\DevExpress.XtraBars.v21.1.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\DevExpress.XtraEditors.v21.1.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\DevExpress.XtraScheduler.v21.1.Core.Desktop.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\DevExpress.XtraScheduler.v21.1.Core.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\NModbus.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\NModbus4.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\DevExpress.Pdf.v21.1.Drawing.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\DevExpress.Xpf.DocumentViewer.v21.1.Core.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\DevExpress.Xpf.Docking.v21.1.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\DevExpress.RichEdit.v21.1.Core.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\DevExpress.Office.v21.1.Core.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\DevExpress.Sparkline.v21.1.Core.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\DevExpress.Images.v21.1.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\DevExpress.Xpf.Layout.v21.1.Core.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\DevExpress.Data.Desktop.v21.1.xml
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\DevExpress.Data.v21.1.xml
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\DevExpress.Mvvm.v21.1.xml
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\DevExpress.Pdf.v21.1.Core.xml
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\DevExpress.Printing.v21.1.Core.xml
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\DevExpress.Utils.v21.1.xml
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\DevExpress.Xpf.Charts.v21.1.xml
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\DevExpress.Xpf.Core.v21.1.xml
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\DevExpress.Xpf.Gauges.v21.1.xml
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\DevExpress.Xpf.Grid.v21.1.xml
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\DevExpress.Xpf.Grid.v21.1.Core.xml
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\DevExpress.Xpf.LayoutControl.v21.1.xml
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\DevExpress.Xpf.Printing.v21.1.xml
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\DevExpress.Xpf.Ribbon.v21.1.xml
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\DevExpress.Xpf.Scheduling.v21.1.xml
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\DevExpress.XtraBars.v21.1.xml
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\DevExpress.XtraEditors.v21.1.xml
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\DevExpress.XtraScheduler.v21.1.Core.xml
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\DevExpress.XtraScheduler.v21.1.Core.Desktop.xml
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\NModbus.xml
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\NModbus4.xml
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\DevExpress.Pdf.v21.1.Drawing.xml
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\DevExpress.Xpf.DocumentViewer.v21.1.Core.xml
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\DevExpress.Xpf.Docking.v21.1.xml
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\DevExpress.RichEdit.v21.1.Core.xml
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\DevExpress.Office.v21.1.Core.xml
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\DevExpress.Sparkline.v21.1.Core.xml
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\DevExpress.Xpf.Layout.v21.1.Core.xml
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\de\DevExpress.Data.v21.1.resources.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\es\DevExpress.Data.v21.1.resources.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\ja\DevExpress.Data.v21.1.resources.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\ru\DevExpress.Data.v21.1.resources.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\de\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\es\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\ja\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\ru\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\de\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\es\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\ja\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\ru\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\de\DevExpress.Utils.v21.1.resources.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\es\DevExpress.Utils.v21.1.resources.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\ja\DevExpress.Utils.v21.1.resources.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\ru\DevExpress.Utils.v21.1.resources.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\de\DevExpress.Xpf.Charts.v21.1.resources.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\es\DevExpress.Xpf.Charts.v21.1.resources.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\ja\DevExpress.Xpf.Charts.v21.1.resources.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\ru\DevExpress.Xpf.Charts.v21.1.resources.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\de\DevExpress.Xpf.Core.v21.1.resources.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\es\DevExpress.Xpf.Core.v21.1.resources.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\ja\DevExpress.Xpf.Core.v21.1.resources.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\ru\DevExpress.Xpf.Core.v21.1.resources.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\de\DevExpress.Xpf.Gauges.v21.1.resources.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\es\DevExpress.Xpf.Gauges.v21.1.resources.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\ja\DevExpress.Xpf.Gauges.v21.1.resources.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\ru\DevExpress.Xpf.Gauges.v21.1.resources.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\de\DevExpress.Xpf.Grid.v21.1.Core.resources.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\es\DevExpress.Xpf.Grid.v21.1.Core.resources.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\ja\DevExpress.Xpf.Grid.v21.1.Core.resources.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\ru\DevExpress.Xpf.Grid.v21.1.Core.resources.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\de\DevExpress.Xpf.LayoutControl.v21.1.resources.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\es\DevExpress.Xpf.LayoutControl.v21.1.resources.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\ja\DevExpress.Xpf.LayoutControl.v21.1.resources.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\ru\DevExpress.Xpf.LayoutControl.v21.1.resources.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\de\DevExpress.Xpf.Printing.v21.1.resources.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\es\DevExpress.Xpf.Printing.v21.1.resources.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\ja\DevExpress.Xpf.Printing.v21.1.resources.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\ru\DevExpress.Xpf.Printing.v21.1.resources.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\de\DevExpress.Xpf.Ribbon.v21.1.resources.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\es\DevExpress.Xpf.Ribbon.v21.1.resources.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\ja\DevExpress.Xpf.Ribbon.v21.1.resources.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\ru\DevExpress.Xpf.Ribbon.v21.1.resources.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\de\DevExpress.Xpf.Scheduling.v21.1.resources.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\es\DevExpress.Xpf.Scheduling.v21.1.resources.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\ja\DevExpress.Xpf.Scheduling.v21.1.resources.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\ru\DevExpress.Xpf.Scheduling.v21.1.resources.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\de\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\es\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\ja\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\ru\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\de\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\es\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\ja\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\ru\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\de\DevExpress.XtraScheduler.v21.1.Core.resources.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\es\DevExpress.XtraScheduler.v21.1.Core.resources.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\ja\DevExpress.XtraScheduler.v21.1.Core.resources.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\ru\DevExpress.XtraScheduler.v21.1.Core.resources.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\de\DevExpress.Xpf.DocumentViewer.v21.1.Core.resources.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\es\DevExpress.Xpf.DocumentViewer.v21.1.Core.resources.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\ja\DevExpress.Xpf.DocumentViewer.v21.1.Core.resources.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\ru\DevExpress.Xpf.DocumentViewer.v21.1.Core.resources.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\de\DevExpress.Xpf.Docking.v21.1.resources.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\es\DevExpress.Xpf.Docking.v21.1.resources.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\ja\DevExpress.Xpf.Docking.v21.1.resources.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\ru\DevExpress.Xpf.Docking.v21.1.resources.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\de\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\es\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\ja\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\ru\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\de\DevExpress.Office.v21.1.Core.resources.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\es\DevExpress.Office.v21.1.Core.resources.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\ja\DevExpress.Office.v21.1.Core.resources.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\ru\DevExpress.Office.v21.1.Core.resources.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\de\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\es\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\ja\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\bin\Debug\ru\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\정준원\Desktop\작업\Tank\plctest2\obj\Debug\TestPT.csproj.AssemblyReference.cache
+C:\Users\정준원\Desktop\작업\Tank\plctest2\obj\Debug\ArcGauge.g.cs
+C:\Users\정준원\Desktop\작업\Tank\plctest2\obj\Debug\Login.g.cs
+C:\Users\정준원\Desktop\작업\Tank\plctest2\obj\Debug\MainWindow.g.cs
+C:\Users\정준원\Desktop\작업\Tank\plctest2\obj\Debug\ProcessLevel.g.cs
+C:\Users\정준원\Desktop\작업\Tank\plctest2\obj\Debug\Tank.g.cs
+C:\Users\정준원\Desktop\작업\Tank\plctest2\obj\Debug\App.g.cs
+C:\Users\정준원\Desktop\작업\Tank\plctest2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\정준원\Desktop\작업\Tank\plctest2\obj\Debug\TestPT_MarkupCompile.cache
+C:\Users\정준원\Desktop\작업\Tank\plctest2\obj\Debug\TestPT_MarkupCompile.lref
+C:\Users\정준원\Desktop\작업\Tank\plctest2\obj\Debug\ArcGauge.baml
+C:\Users\정준원\Desktop\작업\Tank\plctest2\obj\Debug\Login.baml
+C:\Users\정준원\Desktop\작업\Tank\plctest2\obj\Debug\MainWindow.baml
+C:\Users\정준원\Desktop\작업\Tank\plctest2\obj\Debug\ProcessLevel.baml
+C:\Users\정준원\Desktop\작업\Tank\plctest2\obj\Debug\Tank.baml
+C:\Users\정준원\Desktop\작업\Tank\plctest2\obj\Debug\TestPT.g.resources
+C:\Users\정준원\Desktop\작업\Tank\plctest2\obj\Debug\TestPT.Properties.Resources.resources
+C:\Users\정준원\Desktop\작업\Tank\plctest2\obj\Debug\TestPT.csproj.GenerateResource.cache
+C:\Users\정준원\Desktop\작업\Tank\plctest2\obj\Debug\TestPT.exe.licenses
+C:\Users\정준원\Desktop\작업\Tank\plctest2\obj\Debug\TestPT.csproj.CoreCompileInputs.cache
+C:\Users\정준원\Desktop\작업\Tank\plctest2\obj\Debug\TestPT.exe
+C:\Users\정준원\Desktop\작업\Tank\plctest2\obj\Debug\TestPT.pdb
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\obj\Debug\TestPT.csproj.AssemblyReference.cache
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\obj\Debug\ArcGauge.g.cs
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\obj\Debug\Login.g.cs
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\obj\Debug\MainWindow.g.cs
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\obj\Debug\ProcessLevel.g.cs
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\obj\Debug\Tank.g.cs
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\obj\Debug\App.g.cs
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\obj\Debug\TestPT_MarkupCompile.cache
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\obj\Debug\TestPT_MarkupCompile.lref
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\obj\Debug\TestPT.exe
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\obj\Debug\TestPT.pdb
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\TestPT.exe.config
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\TestPT.exe
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\TestPT.pdb
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\DevExpress.Charts.v21.1.Core.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\DevExpress.Data.Desktop.v21.1.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\DevExpress.Data.v18.2.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\DevExpress.Data.v21.1.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\DevExpress.DataVisualization.v21.1.Core.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\DevExpress.Images.v18.2.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\DevExpress.Mvvm.v18.2.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\DevExpress.Mvvm.v21.1.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\DevExpress.Pdf.v21.1.Core.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\DevExpress.Printing.v18.2.Core.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\DevExpress.Printing.v21.1.Core.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\DevExpress.Utils.v21.1.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\DevExpress.Xpf.Charts.v21.1.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\DevExpress.Xpf.Core.v18.2.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\DevExpress.Xpf.Core.v21.1.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\DevExpress.Xpf.Gauges.v21.1.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\DevExpress.Xpf.Grid.v21.1.Core.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\DevExpress.Xpf.Grid.v21.1.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\DevExpress.Xpf.LayoutControl.v21.1.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\DevExpress.Xpf.Printing.v21.1.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\DevExpress.Xpf.Ribbon.v21.1.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\DevExpress.Xpf.Scheduling.v21.1.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\DevExpress.XtraBars.v21.1.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\DevExpress.XtraEditors.v21.1.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\DevExpress.XtraScheduler.v21.1.Core.Desktop.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\DevExpress.XtraScheduler.v21.1.Core.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\NModbus.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\NModbus4.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\DevExpress.Pdf.v18.2.Core.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\DevExpress.Pdf.v21.1.Drawing.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\DevExpress.Xpf.DocumentViewer.v21.1.Core.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\DevExpress.Xpf.Docking.v21.1.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\DevExpress.RichEdit.v21.1.Core.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\DevExpress.Office.v21.1.Core.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\DevExpress.Sparkline.v21.1.Core.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\DevExpress.Images.v21.1.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\DevExpress.Xpf.Layout.v21.1.Core.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\DevExpress.Data.Desktop.v21.1.xml
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\DevExpress.Data.v18.2.xml
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\DevExpress.Data.v21.1.xml
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\DevExpress.Mvvm.v18.2.xml
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\DevExpress.Mvvm.v21.1.xml
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\DevExpress.Pdf.v21.1.Core.xml
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\DevExpress.Printing.v18.2.Core.xml
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\DevExpress.Printing.v21.1.Core.xml
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\DevExpress.Utils.v21.1.xml
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\DevExpress.Xpf.Charts.v21.1.xml
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\DevExpress.Xpf.Core.v18.2.xml
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\DevExpress.Xpf.Core.v21.1.xml
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\DevExpress.Xpf.Gauges.v21.1.xml
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\DevExpress.Xpf.Grid.v21.1.xml
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\DevExpress.Xpf.Grid.v21.1.Core.xml
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\DevExpress.Xpf.LayoutControl.v21.1.xml
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\DevExpress.Xpf.Printing.v21.1.xml
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\DevExpress.Xpf.Ribbon.v21.1.xml
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\DevExpress.Xpf.Scheduling.v21.1.xml
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\DevExpress.XtraBars.v21.1.xml
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\DevExpress.XtraEditors.v21.1.xml
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\DevExpress.XtraScheduler.v21.1.Core.xml
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\DevExpress.XtraScheduler.v21.1.Core.Desktop.xml
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\NModbus.xml
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\NModbus4.xml
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\DevExpress.Pdf.v18.2.Core.xml
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\DevExpress.Pdf.v21.1.Drawing.xml
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\DevExpress.Xpf.DocumentViewer.v21.1.Core.xml
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\DevExpress.Xpf.Docking.v21.1.xml
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\DevExpress.RichEdit.v21.1.Core.xml
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\DevExpress.Office.v21.1.Core.xml
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\DevExpress.Sparkline.v21.1.Core.xml
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\DevExpress.Xpf.Layout.v21.1.Core.xml
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\de\DevExpress.Data.v18.2.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\es\DevExpress.Data.v18.2.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\ja\DevExpress.Data.v18.2.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\ru\DevExpress.Data.v18.2.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\de\DevExpress.Data.v21.1.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\es\DevExpress.Data.v21.1.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\ja\DevExpress.Data.v21.1.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\ru\DevExpress.Data.v21.1.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\de\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\es\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\ja\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\ru\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\de\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\es\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\ja\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\ru\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\de\DevExpress.Utils.v21.1.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\es\DevExpress.Utils.v21.1.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\ja\DevExpress.Utils.v21.1.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\ru\DevExpress.Utils.v21.1.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\de\DevExpress.Xpf.Charts.v21.1.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\es\DevExpress.Xpf.Charts.v21.1.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\ja\DevExpress.Xpf.Charts.v21.1.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\ru\DevExpress.Xpf.Charts.v21.1.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\de\DevExpress.Xpf.Core.v18.2.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\es\DevExpress.Xpf.Core.v18.2.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\ja\DevExpress.Xpf.Core.v18.2.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\ru\DevExpress.Xpf.Core.v18.2.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\de\DevExpress.Xpf.Core.v21.1.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\es\DevExpress.Xpf.Core.v21.1.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\ja\DevExpress.Xpf.Core.v21.1.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\ru\DevExpress.Xpf.Core.v21.1.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\de\DevExpress.Xpf.Gauges.v21.1.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\es\DevExpress.Xpf.Gauges.v21.1.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\ja\DevExpress.Xpf.Gauges.v21.1.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\ru\DevExpress.Xpf.Gauges.v21.1.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\de\DevExpress.Xpf.Grid.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\es\DevExpress.Xpf.Grid.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\ja\DevExpress.Xpf.Grid.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\ru\DevExpress.Xpf.Grid.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\de\DevExpress.Xpf.LayoutControl.v21.1.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\es\DevExpress.Xpf.LayoutControl.v21.1.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\ja\DevExpress.Xpf.LayoutControl.v21.1.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\ru\DevExpress.Xpf.LayoutControl.v21.1.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\de\DevExpress.Xpf.Printing.v21.1.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\es\DevExpress.Xpf.Printing.v21.1.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\ja\DevExpress.Xpf.Printing.v21.1.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\ru\DevExpress.Xpf.Printing.v21.1.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\de\DevExpress.Xpf.Ribbon.v21.1.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\es\DevExpress.Xpf.Ribbon.v21.1.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\ja\DevExpress.Xpf.Ribbon.v21.1.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\ru\DevExpress.Xpf.Ribbon.v21.1.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\de\DevExpress.Xpf.Scheduling.v21.1.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\es\DevExpress.Xpf.Scheduling.v21.1.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\ja\DevExpress.Xpf.Scheduling.v21.1.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\ru\DevExpress.Xpf.Scheduling.v21.1.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\de\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\es\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\ja\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\ru\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\de\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\es\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\ja\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\ru\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\de\DevExpress.XtraScheduler.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\es\DevExpress.XtraScheduler.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\ja\DevExpress.XtraScheduler.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\ru\DevExpress.XtraScheduler.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\de\DevExpress.Xpf.DocumentViewer.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\es\DevExpress.Xpf.DocumentViewer.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\ja\DevExpress.Xpf.DocumentViewer.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\ru\DevExpress.Xpf.DocumentViewer.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\de\DevExpress.Xpf.Docking.v21.1.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\es\DevExpress.Xpf.Docking.v21.1.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\ja\DevExpress.Xpf.Docking.v21.1.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\ru\DevExpress.Xpf.Docking.v21.1.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\de\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\es\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\ja\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\ru\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\de\DevExpress.Office.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\es\DevExpress.Office.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\ja\DevExpress.Office.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\ru\DevExpress.Office.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\de\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\es\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\ja\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\bin\Debug\ru\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\obj\Debug\ArcGauge.baml
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\obj\Debug\Login.baml
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\obj\Debug\MainWindow.baml
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\obj\Debug\ProcessLevel.baml
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\obj\Debug\Tank.baml
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\obj\Debug\TestPT.g.resources
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\obj\Debug\TestPT.Properties.Resources.resources
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\obj\Debug\TestPT.csproj.GenerateResource.cache
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\obj\Debug\TestPT.exe.licenses
+C:\Users\mskim\OneDrive\바탕 화면\Tank\plctest2\obj\Debug\TestPT.csproj.CoreCompileInputs.cache
