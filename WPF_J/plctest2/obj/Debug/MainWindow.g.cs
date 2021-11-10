@@ -10,14 +10,12 @@
 //------------------------------------------------------------------------------
 
 using DevExpress.Core;
-using DevExpress.Xpf.Charts.RangeControlClient;
 using DevExpress.Xpf.Core;
 using DevExpress.Xpf.Core.ConditionalFormatting;
 using DevExpress.Xpf.Core.DataSources;
 using DevExpress.Xpf.Core.Serialization;
 using DevExpress.Xpf.Core.ServerMode;
 using DevExpress.Xpf.DXBinding;
-using DevExpress.Xpf.Data;
 using DevExpress.Xpf.Editors;
 using DevExpress.Xpf.Editors.DataPager;
 using DevExpress.Xpf.Editors.DateNavigator;
@@ -30,7 +28,6 @@ using DevExpress.Xpf.Editors.RangeControl;
 using DevExpress.Xpf.Editors.Settings;
 using DevExpress.Xpf.Editors.Settings.Extension;
 using DevExpress.Xpf.Editors.Validation;
-using DevExpress.Xpf.Gauges;
 using System;
 using System.Diagnostics;
 using System.Windows;

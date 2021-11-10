@@ -22,7 +22,6 @@ using DevExpress.Xpf.Editors.RangeControl;
 using DevExpress.Xpf.Editors.Settings;
 using DevExpress.Xpf.Editors.Settings.Extension;
 using DevExpress.Xpf.Editors.Validation;
-using DevExpress.Xpf.LayoutControl;
 using System;
 using System.Diagnostics;
 using System.Windows;
