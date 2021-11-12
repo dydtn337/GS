@@ -24,7 +24,6 @@ namespace GS_WPF_App
 
         DispatcherTimer readTimer = new DispatcherTimer();
 
-        int[] timer = new int[4];
         int[] maxProduction = new int[4];
 
         
@@ -33,7 +32,6 @@ namespace GS_WPF_App
             InitializeComponent();
 
             DisConnect.Height = 553;
-            for (int i = 0; i < timer.Length; i++) timer[i] = 0;
 
             SolidColorBrush redColor = new SolidColorBrush();
             redColor.Color = Color.FromRgb(0, 0, 0);
@@ -102,7 +100,7 @@ namespace GS_WPF_App
         {
             try
             {
-                var statusArray = readCoils(Convert.ToUInt16("0", 16), Convert.ToUInt16("50"));
+                var statusArray = readCoils(Convert.ToUInt16("0", 16), Convert.ToUInt16("55"));
                 var productArray = readHoldingRegisters(Convert.ToUInt16("0", 16), Convert.ToUInt16("50"));
 
                 int[] productIntValue = new int[4] { ToDecimal(productArray[2]), ToDecimal(productArray[12]), ToDecimal(productArray[22]), ToDecimal(productArray[32]) };
@@ -113,38 +111,20 @@ namespace GS_WPF_App
                 tbProduction1003.Text = productIntValue[3].ToString();
                  
                 // 생산률(%) = (현재생산량 * 100) / 목표생산량  단,목표생산량이 0일경우 생산량은 100임
-                tbPercentage1000.Text = maxProduction[0] == 0 ? "100" : (productIntValue[0] * 100 / maxProduction[0]).ToString();
-                tbPercentage1001.Text = maxProduction[1] == 0 ? "100" : (productIntValue[1] * 100 / maxProduction[1]).ToString();
-                tbPercentage1002.Text = maxProduction[2] == 0 ? "100" : (productIntValue[2] * 100 / maxProduction[2]).ToString();
-                tbPercentage1003.Text = maxProduction[3] == 0 ? "100" : (productIntValue[3] * 100 / maxProduction[3]).ToString();
+                tbPercentage1000.Text = maxProduction[0] == 0 ? "0" : (productIntValue[0] * 100 / maxProduction[0]).ToString();
+                tbPercentage1001.Text = maxProduction[1] == 0 ? "0" : (productIntValue[1] * 100 / maxProduction[1]).ToString();
+                tbPercentage1002.Text = maxProduction[2] == 0 ? "0" : (productIntValue[2] * 100 / maxProduction[2]).ToString();
+                tbPercentage1003.Text = maxProduction[3] == 0 ? "0" : (productIntValue[3] * 100 / maxProduction[3]).ToString();
 
-                if (statusArray[2])
-                {
-                    timer[0]++;
-                    tbTime1000.Text = timer[0].ToString();
-                }
-               //else Ellipse1000.Fill = so;
- 
-                if (statusArray[12])
-                {
-                    timer[1]++;
-                    tbTime1001.Text = timer[1].ToString();
-                }
- //               else Ellipse1001.Fill = Brushes.Black;
+                tbTime1000.Text = ToDecimal(productArray[5]).ToString() + ":" + ToDecimal(productArray[4]).ToString() + ":" + ToDecimal(productArray[3]).ToString();
+                tbTime1001.Text = ToDecimal(productArray[15]).ToString() + ":" + ToDecimal(productArray[14]).ToString() + ":" + ToDecimal(productArray[13]).ToString();
+                tbTime1002.Text = ToDecimal(productArray[25]).ToString() + ":" + ToDecimal(productArray[24]).ToString() + ":" + ToDecimal(productArray[23]).ToString();
+                tbTime1003.Text = ToDecimal(productArray[35]).ToString() + ":" + ToDecimal(productArray[34]).ToString() + ":" + ToDecimal(productArray[33]).ToString();
 
-                if (statusArray[22])
-                {
-                    timer[2]++;
-                    tbTime1002.Text = timer[2].ToString();
-                }
- //               else Ellipse1002.Fill = Brushes.Black;
-
-                if (statusArray[23])
-                {
-                    timer[3]++;
-                    tbTime1003.Text = timer[3].ToString();
-                }
- //               else Ellipse1003.Fill = Brushes.Black;
+                bt1000.BorderBrush = statusArray[2] == true ? Brushes.Blue : Brushes.Transparent;
+                bt1001.BorderBrush = statusArray[18] == true ? Brushes.Blue : Brushes.Transparent;
+                bt1002.BorderBrush = statusArray[34] == true ? Brushes.Blue : Brushes.Transparent;
+                bt1003.BorderBrush = statusArray[50] == true ? Brushes.Blue : Brushes.Transparent;
             }
             catch (Exception ex)
             {
@@ -152,7 +132,6 @@ namespace GS_WPF_App
             }
         }
 
-        
         private void Button_Click_0(object sender, RoutedEventArgs e)
         {
             tbSendIP.Text = "1";
@@ -184,10 +163,10 @@ namespace GS_WPF_App
 
             switch (temp)
             {
-                case 0: tbTargetAmount1000.Text = tbSendValue.Text; Ellipse1000.Fill = Brushes.Blue; break;
-                case 1: tbTargetAmount1001.Text = tbSendValue.Text; Ellipse1001.Fill = Brushes.Blue; break;
-                case 2: tbTargetAmount1002.Text = tbSendValue.Text; Ellipse1002.Fill = Brushes.Blue; break;
-                case 3: tbTargetAmount1003.Text = tbSendValue.Text; Ellipse1003.Fill = Brushes.Blue; break;
+                case 0: tbTargetAmount1000.Text = tbSendValue.Text;  break;
+                case 1: tbTargetAmount1001.Text = tbSendValue.Text;  break;
+                case 2: tbTargetAmount1002.Text = tbSendValue.Text;  break;
+                case 3: tbTargetAmount1003.Text = tbSendValue.Text;  break;
 
                 default: break;
             }
@@ -196,6 +175,7 @@ namespace GS_WPF_App
         private void Button_Click_Stop(object sender, RoutedEventArgs e)
         {
             master.WriteSingleCoil(Convert.ToByte("1"), false);
+
         }
     }
 }

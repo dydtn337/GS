@@ -30,77 +30,77 @@
                 <RowDefinition Height="*"/>
             </Grid.RowDefinitions>
 
-            <Button Grid.Column="0" Grid.Row="0" Margin="20,10,20,10" Background="#FF3C7C20" Foreground="Aqua" Click="Button_Click_0" Opacity="1" BorderThickness="5" BorderBrush="Red">
+            <Button x:Name="bt1000" Grid.Column="0" Grid.Row="0" Margin="20,10,20,10" Background="#FF3C7C20" Foreground="Aqua" Click="Button_Click_0" Opacity="1" BorderThickness="5" BorderBrush="#FF363636">
 
                 <Grid Width="400" Height="250">
                     <Label x:Name="lbTargetAmount1000" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,15,40,0" FontSize="15" FontWeight="Bold" Foreground="White" >목표 생산량 :</Label>
                     <Label HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,0,0,60" FontSize="18" FontWeight="Bold" Foreground="White" >생산률</Label>
-                    <Label HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="0,0,0,5" FontSize="16" FontWeight="Bold" Foreground="White" >현재 생산량 :</Label>
+                    <Label HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="0,0,0,15" FontSize="16" FontWeight="Bold" Foreground="White" >현재 생산량 :</Label>
 
                     <TextBlock  Width="90" Height="30"  HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,35,0,0"  FontSize="20" Foreground="White" Text="%" TextAlignment="Right" />
                     <TextBlock x:Name="tbPercentage1000" Width="50" Height="50" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,40,0,0"  FontSize="30" Foreground="White" Text="0" TextAlignment="Center" />
-                    <TextBlock x:Name="tbProduction1000" Width="100" Height="30" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="80,0,0,5"  FontSize="25" Foreground="White" Text="0" TextAlignment="Center" />
+                    <TextBlock x:Name="tbProduction1000" Width="100" Height="30" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="80,0,0,17"  FontSize="25" Foreground="White" Text="0" TextAlignment="Center" />
 
                     <TextBlock x:Name="tbTargetAmount1000" Width="50" Height="50" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,15,0,0"  FontSize="20" FontWeight="Bold" Foreground="White" Text="0" TextAlignment="Right" />
                     <Label HorizontalAlignment="Left" VerticalAlignment="Top" Margin="0,8,0,0" FontSize="20" FontWeight="Bold" Foreground="White" >1번 설비 </Label>
-                    <TextBlock x:Name="tbTime1000" Width="100" Height="30" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,5,8"  FontSize="25" Foreground="White" Text="0" TextAlignment="Right" />
-                    <Label HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,80,4" FontSize="16" FontWeight="Bold" Foreground="White" >작동시간 :</Label>
+                    <TextBlock x:Name="tbTime1000" Width="100" Height="30" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,5,17"  FontSize="25" Foreground="White" Text="0" TextAlignment="Right" />
+                    <Label HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,80,14" FontSize="16" FontWeight="Bold" Foreground="White" >작동시간 :</Label>
                 </Grid>
             </Button>
 
-            <Button Grid.Column="0" Grid.Row="1" Margin="20,10,20,10" Background="#a63d7d" Click="Button_Click_2" Opacity="1">
+            <Button x:Name="bt1002" Grid.Column="0" Grid.Row="1" Margin="20,10,20,10" Background="#a63d7d" Click="Button_Click_2" Opacity="1"  BorderThickness="5" BorderBrush="#FF363636">
 
                 <Grid Width="400" Height="250">
                     <Label x:Name="lbTargetAmount1002" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,15,40,0" FontSize="15" FontWeight="Bold" Foreground="White" >목표 생산량 :</Label>
                     <Label HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,0,0,60" FontSize="18" FontWeight="Bold" Foreground="White" >생산률</Label>
-                    <Label HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="0,0,0,5" FontSize="16" FontWeight="Bold" Foreground="White" >현재 생산량 :</Label>
+                    <Label HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="0,0,0,15" FontSize="16" FontWeight="Bold" Foreground="White" >현재 생산량 :</Label>
                     
                     <TextBlock  Width="90" Height="30"  HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,35,0,0"  FontSize="20" Foreground="White" Text="%" TextAlignment="Right" />
                     <TextBlock x:Name="tbPercentage1002" Width="50" Height="50" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,40,0,0"  FontSize="30" Foreground="White" Text="0" TextAlignment="Center" />
-                    <TextBlock x:Name="tbProduction1002" Width="100" Height="30" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="80,0,0,5"  FontSize="25" Foreground="White" Text="0" TextAlignment="Center" />
+                    <TextBlock x:Name="tbProduction1002" Width="100" Height="30" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="80,0,0,17"  FontSize="25" Foreground="White" Text="0" TextAlignment="Center" />
                     
                     <TextBlock x:Name="tbTargetAmount1002" Width="50" Height="50" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,15,0,0"  FontSize="20" FontWeight="Bold" Foreground="White" Text="0" TextAlignment="Right" />
                     <Label HorizontalAlignment="Left" VerticalAlignment="Top" Margin="0,8,0,0" FontSize="20" FontWeight="Bold" Foreground="White" >3번 설비</Label>
-                    <TextBlock x:Name="tbTime1002" Width="100" Height="30" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,5,8"  FontSize="25" Foreground="White" Text="0" TextAlignment="Right" />
-                    <Label HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,80,4" FontSize="16" FontWeight="Bold" Foreground="White" >작동시간 :</Label>
+                    <TextBlock x:Name="tbTime1002" Width="100" Height="30" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,5,17"  FontSize="25" Foreground="White" Text="0" TextAlignment="Right" />
+                    <Label HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,80,14" FontSize="16" FontWeight="Bold" Foreground="White" >작동시간 :</Label>
                 </Grid>
             </Button>
 
 
-            <Button Grid.Column="1" Grid.Row="0" Margin="20,10,20,10" Background="#008080" Click="Button_Click_1">
+            <Button x:Name="bt1001" Grid.Column="1" Grid.Row="0" Margin="20,10,20,10" Background="#008080" Click="Button_Click_1"  BorderThickness="5" BorderBrush="#FF363636">
 
                 <Grid Width="400" Height="250">
                     <Label x:Name="lbTargetAmount1001" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,15,40,0" FontSize="15" FontWeight="Bold" Foreground="White" >목표 생산량 :</Label>
                     <Label HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,0,0,60" FontSize="18" FontWeight="Bold" Foreground="White" >생산률</Label>
-                    <Label HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="0,0,0,5" FontSize="16" FontWeight="Bold" Foreground="White" >현재 생산량 :</Label>
+                    <Label HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="0,0,0,15" FontSize="16" FontWeight="Bold" Foreground="White" >현재 생산량 :</Label>
                     
                     <TextBlock  Width="90" Height="30"  HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,35,0,0"  FontSize="20" Foreground="White" Text="%" TextAlignment="Right" />
                     <TextBlock x:Name="tbPercentage1001" Width="50" Height="50" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,40,0,0"  FontSize="30" Foreground="White" Text="0" TextAlignment="Center" />
-                    <TextBlock x:Name="tbProduction1001" Width="100" Height="30" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="80,0,0,5"  FontSize="25" Foreground="White" Text="0" TextAlignment="Center" />
+                    <TextBlock x:Name="tbProduction1001" Width="100" Height="30" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="80,0,0,17"  FontSize="25" Foreground="White" Text="0" TextAlignment="Center" />
 
                     <TextBlock x:Name="tbTargetAmount1001" Width="50" Height="50" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,15,0,0"  FontSize="20" FontWeight="Bold" Foreground="White" Text="0" TextAlignment="Right" />
                     <Label HorizontalAlignment="Left" VerticalAlignment="Top" Margin="0,8,0,0" FontSize="20" FontWeight="Bold" Foreground="White" >2번 설비</Label>
-                    <TextBlock x:Name="tbTime1001" Width="100" Height="30" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,5,8"  FontSize="25" Foreground="White" Text="0" TextAlignment="Right" />
-                    <Label HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,80,4" FontSize="16" FontWeight="Bold" Foreground="White" >작동시간 :</Label>
+                    <TextBlock x:Name="tbTime1001" Width="100" Height="30" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,5,17"  FontSize="25" Foreground="White" Text="0" TextAlignment="Right" />
+                    <Label HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,80,14" FontSize="16" FontWeight="Bold" Foreground="White" >작동시간 :</Label>
                 </Grid>
             </Button>
 
 
-            <Button Grid.Column="1" Grid.Row="1" Margin="20,10,20,10" Background="#d47275" Click="Button_Click_3" Opacity="1">
+            <Button x:Name="bt1003" Grid.Column="1" Grid.Row="1" Margin="20,10,20,10" Background="#d47275" Click="Button_Click_3" Opacity="1" BorderThickness="5" BorderBrush="#FF363636">
 
                 <Grid Width="400" Height="250">
                     <Label x:Name="lbTargetAmount1003" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,15,40,0" FontSize="15" FontWeight="Bold" Foreground="White" >목표 생산량 :</Label>
                     <Label HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,0,0,60" FontSize="18" FontWeight="Bold" Foreground="White" >생산률</Label>
-                    <Label HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="0,0,0,5" FontSize="16" FontWeight="Bold" Foreground="White" >현재 생산량 :</Label>
+                    <Label HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="0,0,0,15" FontSize="16" FontWeight="Bold" Foreground="White" >현재 생산량 :</Label>
                     
                     <TextBlock  Width="90" Height="30"  HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,35,0,0"  FontSize="20" Foreground="White" Text="%" TextAlignment="Right" />
                     <TextBlock x:Name="tbPercentage1003" Width="50" Height="50" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,40,0,0"  FontSize="30" Foreground="White" Text="0" TextAlignment="Center" />
-                    <TextBlock x:Name="tbProduction1003" Width="100" Height="30" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="80,0,0,5"  FontSize="25" Foreground="White" Text="0" TextAlignment="Center" />
+                    <TextBlock x:Name="tbProduction1003" Width="100" Height="30" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="80,0,0,17"  FontSize="25" Foreground="White" Text="0" TextAlignment="Center" />
 
                     <TextBlock x:Name="tbTargetAmount1003" Width="50" Height="50" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,15,0,0"  FontSize="20" FontWeight="Bold" Foreground="White" Text="0" TextAlignment="Right" />
                     <Label HorizontalAlignment="Left" VerticalAlignment="Top" Margin="0,8,0,0" FontSize="20" FontWeight="Bold" Foreground="White" >4번 설비</Label>
-                    <TextBlock x:Name="tbTime1003" Width="100" Height="30" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,5,8"  FontSize="25" Foreground="White" Text="0" TextAlignment="Right" />
-                    <Label HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,80,4" FontSize="16" FontWeight="Bold" Foreground="White" >작동시간 :</Label>
+                    <TextBlock x:Name="tbTime1003" Width="100" Height="30" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,5,17"  FontSize="25" Foreground="White" Text="0" TextAlignment="Right" />
+                    <Label HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,80,14" FontSize="16" FontWeight="Bold" Foreground="White" >작동시간 :</Label>
                 </Grid>
             </Button>
 
