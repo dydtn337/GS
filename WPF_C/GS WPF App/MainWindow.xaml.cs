@@ -159,6 +159,7 @@ namespace GS_WPF_App
             master.WriteSingleRegister(Convert.ToByte("1"), Convert.ToUInt16(tbSendValue.Text));
 
             int temp = (int)Convert.ToDecimal(tbSendIP.Text) - 1;
+            if (temp < 0) return;
             maxProduction[temp] = (int)Convert.ToDecimal(tbSendValue.Text);
 
             switch (temp)
@@ -174,7 +175,7 @@ namespace GS_WPF_App
 
         private void Button_Click_Stop(object sender, RoutedEventArgs e)
         {
-            master.WriteSingleCoil(Convert.ToByte("1"), false);
+            master.WriteSingleCoil(Convert.ToByte("1"), true);
 
         }
     }

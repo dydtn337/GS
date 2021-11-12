@@ -124,7 +124,7 @@
             <TextBox x:Name="tbSendValue" Width="180" Height="40" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="0,50,15,0" Background="White" 
                      BorderBrush="#FF363636" BorderThickness="2" FontSize="20" FontWeight="Bold" Foreground="#FF363636" TextAlignment="Center">0</TextBox>
             <Button Width= "200" Height="50" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,250,0,0" FontSize="20" Content="시 작" Click="Button_Click_Start"></Button>
-            <Button Width= "200" Height="50" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,400,0,0" FontSize="20" Content="종 료" Click="Button_Click_Stop"></Button>
+            <Button Width= "200" Height="50" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,400,0,0" FontSize="20" Content="중 지" Click="Button_Click_Stop"></Button>
             
              
         </Grid>
