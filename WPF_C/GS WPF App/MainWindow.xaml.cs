@@ -18,9 +18,6 @@ using System.Windows.Media;
 
 namespace GS_WPF_App
 {
-    /// <summary>
-    /// MainWindow.xaml에 대한 상호 작용 논리
-    /// </summary>
     public partial class MainWindow : Window
     {
         ModbusIpMaster master;
@@ -30,13 +27,16 @@ namespace GS_WPF_App
         int[] timer = new int[4];
         int[] maxProduction = new int[4];
 
+        
         public MainWindow()
         {
             InitializeComponent();
 
             DisConnect.Height = 553;
-
             for (int i = 0; i < timer.Length; i++) timer[i] = 0;
+
+            SolidColorBrush redColor = new SolidColorBrush();
+            redColor.Color = Color.FromRgb(0, 0, 0);
         }
         
         // IP 접속할 때 발생하는
@@ -123,34 +123,35 @@ namespace GS_WPF_App
                     timer[0]++;
                     tbTime1000.Text = timer[0].ToString();
                 }
-                else Ellipse1000.Fill = Brushes.Black;
-
+               //else Ellipse1000.Fill = so;
+ 
                 if (statusArray[12])
                 {
                     timer[1]++;
                     tbTime1001.Text = timer[1].ToString();
                 }
-                else Ellipse1001.Fill = Brushes.Black;
+ //               else Ellipse1001.Fill = Brushes.Black;
 
                 if (statusArray[22])
                 {
                     timer[2]++;
                     tbTime1002.Text = timer[2].ToString();
                 }
-                else Ellipse1002.Fill = Brushes.Black;
+ //               else Ellipse1002.Fill = Brushes.Black;
 
                 if (statusArray[23])
                 {
                     timer[3]++;
                     tbTime1003.Text = timer[3].ToString();
                 }
-                else Ellipse1003.Fill = Brushes.Black;
+ //               else Ellipse1003.Fill = Brushes.Black;
             }
             catch (Exception ex)
             {
                 throw ex;
             }
         }
+
         
         private void Button_Click_0(object sender, RoutedEventArgs e)
         {

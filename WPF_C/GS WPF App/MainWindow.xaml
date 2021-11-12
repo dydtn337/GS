@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:GS_WPF_App"
         mc:Ignorable="d"
-        Title="MainWindow" Height="720" Width="1280" WindowStyle="None" >
+        Title="MainWindow" Height="720" Width="1280" >
     <Grid Background="#FF363636">
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="3*"/>
@@ -30,15 +30,13 @@
                 <RowDefinition Height="*"/>
             </Grid.RowDefinitions>
 
-            <Button Grid.Column="0" Grid.Row="0" Margin="20,10,20,10" Background="#FF3C7C20" Foreground="Aqua" Click="Button_Click_0" Opacity="1">
+            <Button Grid.Column="0" Grid.Row="0" Margin="20,10,20,10" Background="#FF3C7C20" Foreground="Aqua" Click="Button_Click_0" Opacity="1" BorderThickness="5" BorderBrush="Red">
 
                 <Grid Width="400" Height="250">
                     <Label x:Name="lbTargetAmount1000" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,15,40,0" FontSize="15" FontWeight="Bold" Foreground="White" >목표 생산량 :</Label>
                     <Label HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,0,0,60" FontSize="18" FontWeight="Bold" Foreground="White" >생산률</Label>
                     <Label HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="0,0,0,5" FontSize="16" FontWeight="Bold" Foreground="White" >현재 생산량 :</Label>
-                    
-                    <Ellipse Name="Ellipse1000" Width="50" Height="50" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,20,40" Fill="Black" />
-                    
+
                     <TextBlock  Width="90" Height="30"  HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,35,0,0"  FontSize="20" Foreground="White" Text="%" TextAlignment="Right" />
                     <TextBlock x:Name="tbPercentage1000" Width="50" Height="50" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,40,0,0"  FontSize="30" Foreground="White" Text="0" TextAlignment="Center" />
                     <TextBlock x:Name="tbProduction1000" Width="100" Height="30" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="80,0,0,5"  FontSize="25" Foreground="White" Text="0" TextAlignment="Center" />
@@ -56,7 +54,7 @@
                     <Label x:Name="lbTargetAmount1002" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,15,40,0" FontSize="15" FontWeight="Bold" Foreground="White" >목표 생산량 :</Label>
                     <Label HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,0,0,60" FontSize="18" FontWeight="Bold" Foreground="White" >생산률</Label>
                     <Label HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="0,0,0,5" FontSize="16" FontWeight="Bold" Foreground="White" >현재 생산량 :</Label>
-                    <Ellipse Name="Ellipse1002" Width="50" Height="50" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,20,40" Fill="Black" />
+                    
                     <TextBlock  Width="90" Height="30"  HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,35,0,0"  FontSize="20" Foreground="White" Text="%" TextAlignment="Right" />
                     <TextBlock x:Name="tbPercentage1002" Width="50" Height="50" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,40,0,0"  FontSize="30" Foreground="White" Text="0" TextAlignment="Center" />
                     <TextBlock x:Name="tbProduction1002" Width="100" Height="30" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="80,0,0,5"  FontSize="25" Foreground="White" Text="0" TextAlignment="Center" />
@@ -75,7 +73,7 @@
                     <Label x:Name="lbTargetAmount1001" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,15,40,0" FontSize="15" FontWeight="Bold" Foreground="White" >목표 생산량 :</Label>
                     <Label HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,0,0,60" FontSize="18" FontWeight="Bold" Foreground="White" >생산률</Label>
                     <Label HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="0,0,0,5" FontSize="16" FontWeight="Bold" Foreground="White" >현재 생산량 :</Label>
-                    <Ellipse Name="Ellipse1001" Width="50" Height="50" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,20,40" Fill="Black" />
+                    
                     <TextBlock  Width="90" Height="30"  HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,35,0,0"  FontSize="20" Foreground="White" Text="%" TextAlignment="Right" />
                     <TextBlock x:Name="tbPercentage1001" Width="50" Height="50" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,40,0,0"  FontSize="30" Foreground="White" Text="0" TextAlignment="Center" />
                     <TextBlock x:Name="tbProduction1001" Width="100" Height="30" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="80,0,0,5"  FontSize="25" Foreground="White" Text="0" TextAlignment="Center" />
@@ -94,7 +92,7 @@
                     <Label x:Name="lbTargetAmount1003" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,15,40,0" FontSize="15" FontWeight="Bold" Foreground="White" >목표 생산량 :</Label>
                     <Label HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,0,0,60" FontSize="18" FontWeight="Bold" Foreground="White" >생산률</Label>
                     <Label HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="0,0,0,5" FontSize="16" FontWeight="Bold" Foreground="White" >현재 생산량 :</Label>
-                    <Ellipse Name="Ellipse1003" Width="50" Height="50" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,20,40" Fill="Black" />
+                    
                     <TextBlock  Width="90" Height="30"  HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,35,0,0"  FontSize="20" Foreground="White" Text="%" TextAlignment="Right" />
                     <TextBlock x:Name="tbPercentage1003" Width="50" Height="50" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,40,0,0"  FontSize="30" Foreground="White" Text="0" TextAlignment="Center" />
                     <TextBlock x:Name="tbProduction1003" Width="100" Height="30" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="80,0,0,5"  FontSize="25" Foreground="White" Text="0" TextAlignment="Center" />
