@@ -1,0 +1,137 @@
+C:\Users\IEG78\source\repos\GS WPF App\GS WPF App\bin\Debug\GS WPF App.exe.config
+C:\Users\IEG78\source\repos\GS WPF App\GS WPF App\bin\Debug\GS WPF App.exe
+C:\Users\IEG78\source\repos\GS WPF App\GS WPF App\bin\Debug\GS WPF App.pdb
+C:\Users\IEG78\source\repos\GS WPF App\GS WPF App\obj\Debug\GS WPF App.csproj.AssemblyReference.cache
+C:\Users\IEG78\source\repos\GS WPF App\GS WPF App\obj\Debug\MainWindow.g.cs
+C:\Users\IEG78\source\repos\GS WPF App\GS WPF App\obj\Debug\App.g.cs
+C:\Users\IEG78\source\repos\GS WPF App\GS WPF App\obj\Debug\GS WPF App_MarkupCompile.cache
+C:\Users\IEG78\source\repos\GS WPF App\GS WPF App\obj\Debug\GS WPF App_MarkupCompile.lref
+C:\Users\IEG78\source\repos\GS WPF App\GS WPF App\obj\Debug\MainWindow.baml
+C:\Users\IEG78\source\repos\GS WPF App\GS WPF App\obj\Debug\GS WPF App.g.resources
+C:\Users\IEG78\source\repos\GS WPF App\GS WPF App\obj\Debug\GS_WPF_App.Properties.Resources.resources
+C:\Users\IEG78\source\repos\GS WPF App\GS WPF App\obj\Debug\GS WPF App.csproj.GenerateResource.cache
+C:\Users\IEG78\source\repos\GS WPF App\GS WPF App\obj\Debug\GS WPF App.csproj.CoreCompileInputs.cache
+C:\Users\IEG78\source\repos\GS WPF App\GS WPF App\obj\Debug\GS WPF App.exe
+C:\Users\IEG78\source\repos\GS WPF App\GS WPF App\obj\Debug\GS WPF App.pdb
+C:\Users\IEG78\source\repos\GS WPF App\GS WPF App\bin\Debug\NModbus4.dll
+C:\Users\IEG78\source\repos\GS WPF App\GS WPF App\bin\Debug\NModbus4.xml
+C:\Users\IEG78\source\repos\GS WPF App\GS WPF App\bin\Debug\DevExpress.Data.v18.2.dll
+C:\Users\IEG78\source\repos\GS WPF App\GS WPF App\bin\Debug\DevExpress.Images.v18.2.dll
+C:\Users\IEG78\source\repos\GS WPF App\GS WPF App\bin\Debug\DevExpress.Mvvm.v18.2.dll
+C:\Users\IEG78\source\repos\GS WPF App\GS WPF App\bin\Debug\DevExpress.Printing.v18.2.Core.dll
+C:\Users\IEG78\source\repos\GS WPF App\GS WPF App\bin\Debug\DevExpress.Xpf.Core.v18.2.dll
+C:\Users\IEG78\source\repos\GS WPF App\GS WPF App\bin\Debug\DevExpress.Pdf.v18.2.Core.dll
+C:\Users\IEG78\source\repos\GS WPF App\GS WPF App\bin\Debug\DevExpress.Data.v18.2.xml
+C:\Users\IEG78\source\repos\GS WPF App\GS WPF App\bin\Debug\DevExpress.Mvvm.v18.2.xml
+C:\Users\IEG78\source\repos\GS WPF App\GS WPF App\bin\Debug\DevExpress.Printing.v18.2.Core.xml
+C:\Users\IEG78\source\repos\GS WPF App\GS WPF App\bin\Debug\DevExpress.Xpf.Core.v18.2.xml
+C:\Users\IEG78\source\repos\GS WPF App\GS WPF App\bin\Debug\DevExpress.Pdf.v18.2.Core.xml
+C:\Users\IEG78\source\repos\GS WPF App\GS WPF App\bin\Debug\de\DevExpress.Data.v18.2.resources.dll
+C:\Users\IEG78\source\repos\GS WPF App\GS WPF App\bin\Debug\es\DevExpress.Data.v18.2.resources.dll
+C:\Users\IEG78\source\repos\GS WPF App\GS WPF App\bin\Debug\ja\DevExpress.Data.v18.2.resources.dll
+C:\Users\IEG78\source\repos\GS WPF App\GS WPF App\bin\Debug\ru\DevExpress.Data.v18.2.resources.dll
+C:\Users\IEG78\source\repos\GS WPF App\GS WPF App\bin\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\IEG78\source\repos\GS WPF App\GS WPF App\bin\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\IEG78\source\repos\GS WPF App\GS WPF App\bin\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\IEG78\source\repos\GS WPF App\GS WPF App\bin\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\IEG78\source\repos\GS WPF App\GS WPF App\bin\Debug\de\DevExpress.Xpf.Core.v18.2.resources.dll
+C:\Users\IEG78\source\repos\GS WPF App\GS WPF App\bin\Debug\es\DevExpress.Xpf.Core.v18.2.resources.dll
+C:\Users\IEG78\source\repos\GS WPF App\GS WPF App\bin\Debug\ja\DevExpress.Xpf.Core.v18.2.resources.dll
+C:\Users\IEG78\source\repos\GS WPF App\GS WPF App\bin\Debug\ru\DevExpress.Xpf.Core.v18.2.resources.dll
+C:\Users\IEG78\source\repos\GS WPF App\GS WPF App\bin\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\IEG78\source\repos\GS WPF App\GS WPF App\bin\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\IEG78\source\repos\GS WPF App\GS WPF App\bin\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\IEG78\source\repos\GS WPF App\GS WPF App\bin\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\IEG78\source\repos\GS WPF App\GS WPF App\obj\Debug\GS WPF App.exe.licenses
+C:\Users\IEG78\source\repos\GS WPF App - 복사본\GS WPF App\bin\Debug\GS WPF App.exe.config
+C:\Users\IEG78\source\repos\GS WPF App - 복사본\GS WPF App\bin\Debug\GS WPF App.exe
+C:\Users\IEG78\source\repos\GS WPF App - 복사본\GS WPF App\bin\Debug\GS WPF App.pdb
+C:\Users\IEG78\source\repos\GS WPF App - 복사본\GS WPF App\bin\Debug\DevExpress.Data.v18.2.dll
+C:\Users\IEG78\source\repos\GS WPF App - 복사본\GS WPF App\bin\Debug\DevExpress.Images.v18.2.dll
+C:\Users\IEG78\source\repos\GS WPF App - 복사본\GS WPF App\bin\Debug\DevExpress.Mvvm.v18.2.dll
+C:\Users\IEG78\source\repos\GS WPF App - 복사본\GS WPF App\bin\Debug\DevExpress.Printing.v18.2.Core.dll
+C:\Users\IEG78\source\repos\GS WPF App - 복사본\GS WPF App\bin\Debug\DevExpress.Xpf.Core.v18.2.dll
+C:\Users\IEG78\source\repos\GS WPF App - 복사본\GS WPF App\bin\Debug\NModbus4.dll
+C:\Users\IEG78\source\repos\GS WPF App - 복사본\GS WPF App\bin\Debug\DevExpress.Pdf.v18.2.Core.dll
+C:\Users\IEG78\source\repos\GS WPF App - 복사본\GS WPF App\bin\Debug\DevExpress.Data.v18.2.xml
+C:\Users\IEG78\source\repos\GS WPF App - 복사본\GS WPF App\bin\Debug\DevExpress.Mvvm.v18.2.xml
+C:\Users\IEG78\source\repos\GS WPF App - 복사본\GS WPF App\bin\Debug\DevExpress.Printing.v18.2.Core.xml
+C:\Users\IEG78\source\repos\GS WPF App - 복사본\GS WPF App\bin\Debug\DevExpress.Xpf.Core.v18.2.xml
+C:\Users\IEG78\source\repos\GS WPF App - 복사본\GS WPF App\bin\Debug\NModbus4.xml
+C:\Users\IEG78\source\repos\GS WPF App - 복사본\GS WPF App\bin\Debug\DevExpress.Pdf.v18.2.Core.xml
+C:\Users\IEG78\source\repos\GS WPF App - 복사본\GS WPF App\bin\Debug\de\DevExpress.Data.v18.2.resources.dll
+C:\Users\IEG78\source\repos\GS WPF App - 복사본\GS WPF App\bin\Debug\es\DevExpress.Data.v18.2.resources.dll
+C:\Users\IEG78\source\repos\GS WPF App - 복사본\GS WPF App\bin\Debug\ja\DevExpress.Data.v18.2.resources.dll
+C:\Users\IEG78\source\repos\GS WPF App - 복사본\GS WPF App\bin\Debug\ru\DevExpress.Data.v18.2.resources.dll
+C:\Users\IEG78\source\repos\GS WPF App - 복사본\GS WPF App\bin\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\IEG78\source\repos\GS WPF App - 복사본\GS WPF App\bin\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\IEG78\source\repos\GS WPF App - 복사본\GS WPF App\bin\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\IEG78\source\repos\GS WPF App - 복사본\GS WPF App\bin\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\IEG78\source\repos\GS WPF App - 복사본\GS WPF App\bin\Debug\de\DevExpress.Xpf.Core.v18.2.resources.dll
+C:\Users\IEG78\source\repos\GS WPF App - 복사본\GS WPF App\bin\Debug\es\DevExpress.Xpf.Core.v18.2.resources.dll
+C:\Users\IEG78\source\repos\GS WPF App - 복사본\GS WPF App\bin\Debug\ja\DevExpress.Xpf.Core.v18.2.resources.dll
+C:\Users\IEG78\source\repos\GS WPF App - 복사본\GS WPF App\bin\Debug\ru\DevExpress.Xpf.Core.v18.2.resources.dll
+C:\Users\IEG78\source\repos\GS WPF App - 복사본\GS WPF App\bin\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\IEG78\source\repos\GS WPF App - 복사본\GS WPF App\bin\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\IEG78\source\repos\GS WPF App - 복사본\GS WPF App\bin\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\IEG78\source\repos\GS WPF App - 복사본\GS WPF App\bin\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\IEG78\source\repos\GS WPF App - 복사본\GS WPF App\obj\Debug\GS WPF App.csproj.AssemblyReference.cache
+C:\Users\IEG78\source\repos\GS WPF App - 복사본\GS WPF App\obj\Debug\MainWindow.g.cs
+C:\Users\IEG78\source\repos\GS WPF App - 복사본\GS WPF App\obj\Debug\App.g.cs
+C:\Users\IEG78\source\repos\GS WPF App - 복사본\GS WPF App\obj\Debug\GS WPF App_MarkupCompile.cache
+C:\Users\IEG78\source\repos\GS WPF App - 복사본\GS WPF App\obj\Debug\GS WPF App_MarkupCompile.lref
+C:\Users\IEG78\source\repos\GS WPF App - 복사본\GS WPF App\obj\Debug\MainWindow.baml
+C:\Users\IEG78\source\repos\GS WPF App - 복사본\GS WPF App\obj\Debug\GS WPF App.g.resources
+C:\Users\IEG78\source\repos\GS WPF App - 복사본\GS WPF App\obj\Debug\GS_WPF_App.Properties.Resources.resources
+C:\Users\IEG78\source\repos\GS WPF App - 복사본\GS WPF App\obj\Debug\GS WPF App.csproj.GenerateResource.cache
+C:\Users\IEG78\source\repos\GS WPF App - 복사본\GS WPF App\obj\Debug\GS WPF App.exe.licenses
+C:\Users\IEG78\source\repos\GS WPF App - 복사본\GS WPF App\obj\Debug\GS WPF App.csproj.CoreCompileInputs.cache
+C:\Users\IEG78\source\repos\GS WPF App - 복사본\GS WPF App\obj\Debug\GS WPF App.exe
+C:\Users\IEG78\source\repos\GS WPF App - 복사본\GS WPF App\obj\Debug\GS WPF App.pdb
+C:\Users\IEG78\source\repos\WPF_C\GS WPF App\bin\Debug\GS WPF App.exe.config
+C:\Users\IEG78\source\repos\WPF_C\GS WPF App\bin\Debug\GS WPF App.exe
+C:\Users\IEG78\source\repos\WPF_C\GS WPF App\bin\Debug\GS WPF App.pdb
+C:\Users\IEG78\source\repos\WPF_C\GS WPF App\bin\Debug\DevExpress.Data.v18.2.dll
+C:\Users\IEG78\source\repos\WPF_C\GS WPF App\bin\Debug\DevExpress.Images.v18.2.dll
+C:\Users\IEG78\source\repos\WPF_C\GS WPF App\bin\Debug\DevExpress.Mvvm.v18.2.dll
+C:\Users\IEG78\source\repos\WPF_C\GS WPF App\bin\Debug\DevExpress.Printing.v18.2.Core.dll
+C:\Users\IEG78\source\repos\WPF_C\GS WPF App\bin\Debug\DevExpress.Xpf.Core.v18.2.dll
+C:\Users\IEG78\source\repos\WPF_C\GS WPF App\bin\Debug\NModbus4.dll
+C:\Users\IEG78\source\repos\WPF_C\GS WPF App\bin\Debug\DevExpress.Pdf.v18.2.Core.dll
+C:\Users\IEG78\source\repos\WPF_C\GS WPF App\bin\Debug\DevExpress.Data.v18.2.xml
+C:\Users\IEG78\source\repos\WPF_C\GS WPF App\bin\Debug\DevExpress.Mvvm.v18.2.xml
+C:\Users\IEG78\source\repos\WPF_C\GS WPF App\bin\Debug\DevExpress.Printing.v18.2.Core.xml
+C:\Users\IEG78\source\repos\WPF_C\GS WPF App\bin\Debug\DevExpress.Xpf.Core.v18.2.xml
+C:\Users\IEG78\source\repos\WPF_C\GS WPF App\bin\Debug\NModbus4.xml
+C:\Users\IEG78\source\repos\WPF_C\GS WPF App\bin\Debug\DevExpress.Pdf.v18.2.Core.xml
+C:\Users\IEG78\source\repos\WPF_C\GS WPF App\bin\Debug\de\DevExpress.Data.v18.2.resources.dll
+C:\Users\IEG78\source\repos\WPF_C\GS WPF App\bin\Debug\es\DevExpress.Data.v18.2.resources.dll
+C:\Users\IEG78\source\repos\WPF_C\GS WPF App\bin\Debug\ja\DevExpress.Data.v18.2.resources.dll
+C:\Users\IEG78\source\repos\WPF_C\GS WPF App\bin\Debug\ru\DevExpress.Data.v18.2.resources.dll
+C:\Users\IEG78\source\repos\WPF_C\GS WPF App\bin\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\IEG78\source\repos\WPF_C\GS WPF App\bin\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\IEG78\source\repos\WPF_C\GS WPF App\bin\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\IEG78\source\repos\WPF_C\GS WPF App\bin\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\IEG78\source\repos\WPF_C\GS WPF App\bin\Debug\de\DevExpress.Xpf.Core.v18.2.resources.dll
+C:\Users\IEG78\source\repos\WPF_C\GS WPF App\bin\Debug\es\DevExpress.Xpf.Core.v18.2.resources.dll
+C:\Users\IEG78\source\repos\WPF_C\GS WPF App\bin\Debug\ja\DevExpress.Xpf.Core.v18.2.resources.dll
+C:\Users\IEG78\source\repos\WPF_C\GS WPF App\bin\Debug\ru\DevExpress.Xpf.Core.v18.2.resources.dll
+C:\Users\IEG78\source\repos\WPF_C\GS WPF App\bin\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\IEG78\source\repos\WPF_C\GS WPF App\bin\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\IEG78\source\repos\WPF_C\GS WPF App\bin\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\IEG78\source\repos\WPF_C\GS WPF App\bin\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\IEG78\source\repos\WPF_C\GS WPF App\obj\Debug\MainWindow.g.cs
+C:\Users\IEG78\source\repos\WPF_C\GS WPF App\obj\Debug\App.g.cs
+C:\Users\IEG78\source\repos\WPF_C\GS WPF App\obj\Debug\GS WPF App_MarkupCompile.cache
+C:\Users\IEG78\source\repos\WPF_C\GS WPF App\obj\Debug\GS WPF App_MarkupCompile.lref
+C:\Users\IEG78\source\repos\WPF_C\GS WPF App\obj\Debug\MainWindow.baml
+C:\Users\IEG78\source\repos\WPF_C\GS WPF App\obj\Debug\GS WPF App.g.resources
+C:\Users\IEG78\source\repos\WPF_C\GS WPF App\obj\Debug\GS_WPF_App.Properties.Resources.resources
+C:\Users\IEG78\source\repos\WPF_C\GS WPF App\obj\Debug\GS WPF App.csproj.GenerateResource.cache
+C:\Users\IEG78\source\repos\WPF_C\GS WPF App\obj\Debug\GS WPF App.csproj.CoreCompileInputs.cache
+C:\Users\IEG78\source\repos\WPF_C\GS WPF App\obj\Debug\GS WPF App.exe
+C:\Users\IEG78\source\repos\WPF_C\GS WPF App\obj\Debug\GS WPF App.pdb
+C:\Users\IEG78\source\repos\WPF_C\GS WPF App\obj\Debug\CircularProgressBar.g.cs
+C:\Users\IEG78\source\repos\WPF_C\GS WPF App\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\IEG78\source\repos\WPF_C\GS WPF App\obj\Debug\CircularProgressBar.baml
+C:\Users\IEG78\source\repos\WPF_C\GS WPF App\obj\Debug\GS WPF App.csproj.AssemblyReference.cache
